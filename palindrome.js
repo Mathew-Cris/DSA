@@ -21,3 +21,5 @@ function checker(word) {
       : `${word}  is not a palindrome`;
   console.log(result);
 }
+
+checker("race")
