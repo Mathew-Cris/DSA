@@ -2,7 +2,7 @@
 ## Getting used to arrays.
 - Create an array named `bag` with `notebook` and `ballpen` inside as elements then log the two elements to the console
 
-- Create an array named `items`, here are the items: `Laptop`, `SmartPhone`, `Connector`, `Adapter`, `Flashdrive`, `wifi`,
+- Create an array named `items`, here are the elements: `Laptop`, `SmartPhone`, `Connector`, `Adapter`, `Flashdrive`, `wifi`.
 
 - Iterate all elements inside items array and add them to the `bag` array you can use either `forEach loop` or `for Loop`
 
